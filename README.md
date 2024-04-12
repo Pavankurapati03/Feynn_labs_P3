@@ -52,7 +52,7 @@ The data used in this project was sourced from Kaggle. It consists of survey res
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/heart-disease-prediction/issues) if you have any suggestions or feedback.
+Contributions, issues, and feature requests are welcome! 
 
 
 ## Acknowledgements
