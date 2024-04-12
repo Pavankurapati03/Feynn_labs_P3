@@ -1,7 +1,3 @@
-Here's an updated README file for your heart disease prediction project, which includes a section on how to deploy the machine learning model in Streamlit Cloud:
-
----
-
 # Heart Disease Prediction Project
 
 Welcome to the Heart Disease Prediction Project! This project utilizes machine learning to predict the likelihood of an individual developing heart disease based on their demographic, lifestyle, and clinical attributes.
