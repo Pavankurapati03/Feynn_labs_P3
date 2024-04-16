@@ -2,6 +2,8 @@
 
 Welcome to the Heart Disease Prediction Project! This project utilizes machine learning to predict the likelihood of an individual developing heart disease based on their demographic, lifestyle, and clinical attributes.
 
+To access the web app : https://feynnlabsp3-dxm4siy4on3esxf4gznue9.streamlit.app/
+
 ## Overview
 
 The goal of this project is to create a predictive model for heart disease using data collected from the Behavioral Risk Factor Surveillance System (BRFSS) conducted by the CDC. The project involves data preprocessing, feature engineering, and model development using various algorithms. A web application prototype was built using Streamlit to provide an intuitive interface for users to input their health information and receive predictions regarding their risk of heart disease.
